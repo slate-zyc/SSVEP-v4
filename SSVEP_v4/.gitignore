@@ -1,0 +1,5 @@
+EEG_data/
+__pycache__/
+*.py[cod]
+.idea/
+.pytest_cache/

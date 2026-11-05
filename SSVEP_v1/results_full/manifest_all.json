@@ -1,0 +1,207 @@
+{
+  "timestamp_utc": "2026-11-05T04:15:33.899535+00:00",
+  "python": "3.11.18",
+  "subjects": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06",
+    "S07",
+    "S08",
+    "S09",
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+  ],
+  "windows": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "stage": "all",
+  "config": {
+    "subjects": [
+      "S01",
+      "S02",
+      "S03",
+      "S04",
+      "S05",
+      "S06",
+      "S07",
+      "S08",
+      "S09",
+      "S10",
+      "S11",
+      "S12",
+      "S13",
+      "S14",
+      "S15",
+      "S16",
+      "S17",
+      "S18",
+      "S19",
+      "S20",
+      "S21",
+      "S22",
+      "S23",
+      "S24"
+    ],
+    "data_dir": "E:\\Codex\\asyn-SSVEP\\EEG_data",
+    "output_dir": "E:\\Codex\\asyn-SSVEP\\SSVEP_v1\\results_full",
+    "cache_dir": "E:\\Codex\\asyn-SSVEP\\SSVEP_v1\\cache",
+    "original_fs": 5000,
+    "fs": 250,
+    "frequencies": [
+      8,
+      9,
+      10.5,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "channels": [
+      "Pz",
+      "PO7",
+      "PO3",
+      "POz",
+      "PO4",
+      "PO8",
+      "O1",
+      "Oz",
+      "O2"
+    ],
+    "windows": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "delay_seconds": 0.14,
+    "cue_seconds": 1.5,
+    "harmonics": 3,
+    "filter_passbands": [
+      [
+        6,
+        80
+      ],
+      [
+        14,
+        80
+      ],
+      [
+        22,
+        80
+      ],
+      [
+        30,
+        80
+      ]
+    ],
+    "filter_stopbands": [
+      [
+        4,
+        90
+      ],
+      [
+        10,
+        90
+      ],
+      [
+        16,
+        90
+      ],
+      [
+        24,
+        90
+      ]
+    ],
+    "cheb_order_ripple_db": 3,
+    "cheb_ripple_db": 0.5,
+    "stop_attenuation_db": 40,
+    "notch_q": 30,
+    "weight_exponent": -1.25,
+    "weight_offset": 0.25,
+    "score_power": 1,
+    "trca_ridge_relative": 1e-08,
+    "seed": 20261104,
+    "folds": 12,
+    "fs_score_power": 2,
+    "lda_shrinkage": "auto",
+    "ocn_bands": [
+      [
+        0.5,
+        3
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        8,
+        13
+      ],
+      [
+        13,
+        30
+      ],
+      [
+        30,
+        60
+      ]
+    ],
+    "ocn_delays": [
+      2,
+      4
+    ],
+    "ocn_dimensions": [
+      3,
+      5
+    ],
+    "ocn_radii": [
+      0.5,
+      1.0
+    ],
+    "ocn_inner_folds": 3,
+    "ocn_svm_c": 1.0,
+    "ocn_top_bands": 3
+  },
+  "versions": {
+    "numpy": "2.4.6",
+    "scipy": "1.17.1",
+    "pandas": "3.1.0",
+    "matplotlib": "3.11.2",
+    "scikit-learn": "1.9.1",
+    "openpyxl": "3.1.5",
+    "threadpoolctl": "3.7.0",
+    "mne": "1.13.2"
+  },
+  "code_sha256": {
+    "algorithms.py": "2642108e28e29b58529ae1ba66f125d761159c0ca8d8467581609c8dcc726e4d",
+    "asynchronous.py": "74db9c275a3c4da4d805a9e3e296228d194fca8982c49a9adf34284fa767eea7",
+    "data_io.py": "e696f11f26c535d2af9c0b2942d7b5c910de4a22cfe1ac9808cb5d743bcb891c",
+    "evaluation.py": "46bec81fba8d85c115ab006421a1153a4a9e88b3849c0f03c213c91ad4aed1bc",
+    "main.py": "0cf05915eef7b46514515e4a6009d5f6e648fdedc94534b9ebd4ed0fbc20f948",
+    "ocn.py": "a9e43858f01462b604d737d731c5a38294b840cc529a157c7a6badd3b37ee919",
+    "quality_analysis.py": "b98513d1c366176312e87633f75f90a93818483288f46879d10f22fc799a4485",
+    "reporting.py": "7ba2f1ba2d82a185fc19e58befcd79dd15fe02d5d611ea50dfaa5138db10dd44",
+    "test_algorithms.py": "50a4c1ebe9ab7725d5fe20c79e36d1fd3fcffac03dc873059aaf43049e881af0",
+    "verify_results.py": "3f4713cebd76b2425ff035cb169ba447c500b69b845d38a6f099b8db2f7a3c78"
+  }
+}

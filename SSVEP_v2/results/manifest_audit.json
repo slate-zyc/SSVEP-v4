@@ -1,0 +1,227 @@
+{
+  "timestamp_utc": "2026-11-04T13:02:53.477480+00:00",
+  "python": "3.11.18",
+  "stage": "audit",
+  "subjects": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06",
+    "S07",
+    "S08",
+    "S09",
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S20",
+    "S21",
+    "S22",
+    "S23",
+    "S24"
+  ],
+  "windows": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "config": {
+    "subjects": [
+      "S01",
+      "S02",
+      "S03",
+      "S04",
+      "S05",
+      "S06",
+      "S07",
+      "S08",
+      "S09",
+      "S10",
+      "S11",
+      "S12",
+      "S13",
+      "S14",
+      "S15",
+      "S16",
+      "S17",
+      "S18",
+      "S19",
+      "S20",
+      "S21",
+      "S22",
+      "S23",
+      "S24"
+    ],
+    "paths": {
+      "data": "E:\\Codex\\asyn-SSVEP\\SSVEP\\EEG_data",
+      "cache": "E:\\Codex\\asyn-SSVEP\\SSVEP\\cache",
+      "output": "E:\\Codex\\asyn-SSVEP\\.agents\\worktrees\\SSVEP_DSH\\SSVEP\\results"
+    },
+    "eeg": {
+      "original_fs": 5000,
+      "fs": 250,
+      "notch_hz": 50,
+      "notch_q": 30
+    },
+    "paradigm": {
+      "frequencies": [
+        8,
+        9,
+        10.5,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "posterior_channels": [
+        "Pz",
+        "PO7",
+        "PO3",
+        "POz",
+        "PO4",
+        "PO8",
+        "O1",
+        "Oz",
+        "O2"
+      ],
+      "frontal_channel": "Fp1",
+      "delay_seconds": 0.14,
+      "cue_seconds": 1.5,
+      "harmonics": 3
+    },
+    "filter_bank": {
+      "passbands": [
+        [
+          6,
+          80
+        ],
+        [
+          14,
+          80
+        ],
+        [
+          22,
+          80
+        ],
+        [
+          30,
+          80
+        ]
+      ],
+      "stopbands": [
+        [
+          4,
+          90
+        ],
+        [
+          10,
+          90
+        ],
+        [
+          16,
+          90
+        ],
+        [
+          24,
+          90
+        ]
+      ],
+      "order_ripple_db": 3,
+      "ripple_db": 0.5,
+      "stop_attenuation_db": 40,
+      "weight_exponent": -1.25,
+      "weight_offset": 0.25,
+      "score_power": 1
+    },
+    "trca": {
+      "ridge_relative": 1e-08
+    },
+    "frequency": {
+      "windows_seconds": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "folds": 12
+    },
+    "asynchronous": {
+      "window_seconds": 1,
+      "folds": 12,
+      "fs_score_power": 2,
+      "lda_shrinkage": "auto"
+    },
+    "ocn": {
+      "bands": [
+        [
+          0.5,
+          3
+        ],
+        [
+          4,
+          7
+        ],
+        [
+          8,
+          13
+        ],
+        [
+          13,
+          30
+        ],
+        [
+          30,
+          60
+        ]
+      ],
+      "filter_order": 4,
+      "delays": [
+        2,
+        4
+      ],
+      "dimensions": [
+        3,
+        5
+      ],
+      "radii": [
+        0.5,
+        1.0
+      ],
+      "top_bands": 3,
+      "inner_folds": 3,
+      "svm_c": 1.0
+    },
+    "random_seed": 20261104
+  },
+  "versions": {
+    "numpy": "2.4.6",
+    "scipy": "1.17.1",
+    "pandas": "3.1.0",
+    "matplotlib": "3.11.2",
+    "scikit-learn": "1.9.1",
+    "openpyxl": "3.1.5",
+    "mne": "1.13.2"
+  },
+  "code_sha256": {
+    "__init__.py": "d906cbeea955840bb480129062ac51340737afae3f995e1d4343daa951989ea2",
+    "algorithms.py": "24d92dfefcb6a7bdd38a728ff5f6823645ea5914c760173d25327bdd18eeb067",
+    "asynchronous.py": "be7d96233b2a4173b5331948d3cd1b081c1f680ec774ad51cb9b91b84939d1eb",
+    "config.py": "34d54f0b82fb981deb9da056a85b6813541acd11785d5354f19e210fcfd44c3a",
+    "data.py": "3d154dfef30bad846f15392b2d738afb8b4c84d68466daf5b92b03219dc0b57a",
+    "frequency.py": "124b386a56154c6824390f0d75a2b5f586835aba92f98673b08ae327ad7ceca4",
+    "ocn.py": "cc0c557045ad90d86236b9a13783ca661daaafc2ce31652918b3ce12ae22fa09",
+    "quality.py": "0cdac4c8ccf119897fe22c9677b6b195809d921eeff13a0503db4a135f3577d0",
+    "report.py": "981741ab48d2fb33bc04f601bc2f3826ff794ccb15f089d15ffc464c173867a2",
+    "verify.py": "968cde8e7d1e2c2d05e63cc4305c59e6a8d64b31d3dcc3227ade72a5a8a1137d"
+  }
+}

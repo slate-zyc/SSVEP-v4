@@ -1,0 +1,97 @@
+subject,state,variable,shape,dtype,bytes
+S01,CS,data_CS,"(8, 63, 22500, 12)",double,502305074
+S01,NS1,data_NS1,"(63, 20000, 24)",double,112924871
+S01,NS2,data_NS2,"(63, 20000, 24)",double,113010408
+S01,NS3,data_NS3,"(63, 10000, 48)",double,112873557
+S02,CS,data_CS,"(8, 63, 22500, 12)",double,497461307
+S02,NS1,data_NS1,"(63, 20000, 24)",double,111115212
+S02,NS2,data_NS2,"(63, 20000, 24)",double,108783278
+S02,NS3,data_NS3,"(63, 10000, 48)",double,108880286
+S03,CS,data_CS,"(8, 63, 22500, 12)",double,501422514
+S03,NS1,data_NS1,"(63, 20000, 24)",double,113860658
+S03,NS2,data_NS2,"(63, 20000, 24)",double,113238896
+S03,NS3,data_NS3,"(63, 10000, 48)",double,113192219
+S04,CS,data_CS,"(8, 63, 22500, 12)",double,497395322
+S04,NS1,data_NS1,"(63, 20000, 24)",double,110619207
+S04,NS2,data_NS2,"(63, 20000, 24)",double,108956433
+S04,NS3,data_NS3,"(63, 10000, 48)",double,110494274
+S05,CS,data_CS,"(8, 63, 22500, 12)",double,494117458
+S05,NS1,data_NS1,"(63, 20000, 24)",double,112281493
+S05,NS2,data_NS2,"(63, 20000, 24)",double,113020512
+S05,NS3,data_NS3,"(63, 10000, 48)",double,113305682
+S06,CS,data_CS,"(8, 63, 22500, 12)",double,502425722
+S06,NS1,data_NS1,"(63, 20000, 24)",double,113389125
+S06,NS2,data_NS2,"(63, 20000, 24)",double,112385053
+S06,NS3,data_NS3,"(63, 10000, 48)",double,112376936
+S07,CS,data_CS,"(8, 63, 22500, 12)",double,498111001
+S07,NS1,data_NS1,"(63, 20000, 24)",double,112529848
+S07,NS2,data_NS2,"(63, 20000, 24)",double,113014884
+S07,NS3,data_NS3,"(63, 10000, 48)",double,112749802
+S08,CS,data_CS,"(8, 63, 22500, 12)",double,491756284
+S08,NS1,data_NS1,"(63, 20000, 24)",double,112915927
+S08,NS2,data_NS2,"(63, 20000, 24)",double,113448248
+S08,NS3,data_NS3,"(63, 10000, 48)",double,114451557
+S09,CS,data_CS,"(8, 63, 22500, 12)",double,484458962
+S09,NS1,data_NS1,"(63, 20000, 24)",double,111731873
+S09,NS2,data_NS2,"(63, 20000, 24)",double,112350487
+S09,NS3,data_NS3,"(63, 10000, 48)",double,112296024
+S10,CS,data_CS,"(8, 63, 22500, 12)",double,494326447
+S10,NS1,data_NS1,"(63, 20000, 24)",double,112019034
+S10,NS2,data_NS2,"(63, 20000, 24)",double,111785179
+S10,NS3,data_NS3,"(63, 10000, 48)",double,111967353
+S11,CS,data_CS,"(8, 63, 22500, 12)",double,490433572
+S11,NS1,data_NS1,"(63, 20000, 24)",double,110888051
+S11,NS2,data_NS2,"(63, 20000, 24)",double,110678063
+S11,NS3,data_NS3,"(63, 10000, 48)",double,110109973
+S12,CS,data_CS,"(8, 63, 22500, 12)",double,507939311
+S12,NS1,data_NS1,"(63, 20000, 24)",double,112831046
+S12,NS2,data_NS2,"(63, 20000, 24)",double,112563834
+S12,NS3,data_NS3,"(63, 10000, 48)",double,111668521
+S13,CS,data_CS,"(8, 63, 22500, 12)",double,505623435
+S13,NS1,data_NS1,"(63, 20000, 24)",double,112359229
+S13,NS2,data_NS2,"(63, 20000, 24)",double,111902390
+S13,NS3,data_NS3,"(63, 10000, 48)",double,112164818
+S14,CS,data_CS,"(8, 63, 22500, 12)",double,506009850
+S14,NS1,data_NS1,"(63, 20000, 24)",double,112426764
+S14,NS2,data_NS2,"(63, 20000, 24)",double,112303007
+S14,NS3,data_NS3,"(63, 10000, 48)",double,111591527
+S15,CS,data_CS,"(8, 63, 22500, 12)",double,505200700
+S15,NS1,data_NS1,"(63, 20000, 24)",double,112644720
+S15,NS2,data_NS2,"(63, 20000, 24)",double,111893677
+S15,NS3,data_NS3,"(63, 10000, 48)",double,112014009
+S16,CS,data_CS,"(8, 63, 22500, 12)",double,500481777
+S16,NS1,data_NS1,"(63, 20000, 24)",double,112746839
+S16,NS2,data_NS2,"(63, 20000, 24)",double,112806593
+S16,NS3,data_NS3,"(63, 10000, 48)",double,112220698
+S17,CS,data_CS,"(8, 63, 22500, 12)",double,488525005
+S17,NS1,data_NS1,"(63, 20000, 24)",double,112687293
+S17,NS2,data_NS2,"(63, 20000, 24)",double,110976406
+S17,NS3,data_NS3,"(63, 10000, 48)",double,112474087
+S18,CS,data_CS,"(8, 63, 22500, 12)",double,523491315
+S18,NS1,data_NS1,"(63, 20000, 24)",double,110843931
+S18,NS2,data_NS2,"(63, 20000, 24)",double,110496944
+S18,NS3,data_NS3,"(63, 10000, 48)",double,110166890
+S19,CS,data_CS,"(8, 63, 22500, 12)",double,490579166
+S19,NS1,data_NS1,"(63, 20000, 24)",double,112169738
+S19,NS2,data_NS2,"(63, 20000, 24)",double,112054196
+S19,NS3,data_NS3,"(63, 10000, 48)",double,111668819
+S20,CS,data_CS,"(8, 63, 22500, 12)",double,498802939
+S20,NS1,data_NS1,"(63, 20000, 24)",double,111444478
+S20,NS2,data_NS2,"(63, 20000, 24)",double,112716098
+S20,NS3,data_NS3,"(63, 10000, 48)",double,112527549
+S21,CS,data_CS,"(8, 63, 22500, 12)",double,491486427
+S21,NS1,data_NS1,"(63, 20000, 24)",double,111478567
+S21,NS2,data_NS2,"(63, 20000, 24)",double,110844275
+S21,NS3,data_NS3,"(63, 10000, 48)",double,111318798
+S22,CS,data_CS,"(8, 63, 22500, 12)",double,494220767
+S22,NS1,data_NS1,"(63, 20000, 24)",double,110866183
+S22,NS2,data_NS2,"(63, 20000, 24)",double,110801701
+S22,NS3,data_NS3,"(63, 10000, 48)",double,111120641
+S23,CS,data_CS,"(8, 63, 22500, 12)",double,505854075
+S23,NS1,data_NS1,"(63, 20000, 24)",double,113054526
+S23,NS2,data_NS2,"(63, 20000, 24)",double,112724755
+S23,NS3,data_NS3,"(63, 10000, 48)",double,112220147
+S24,CS,data_CS,"(8, 63, 22500, 12)",double,493244108
+S24,NS1,data_NS1,"(63, 20000, 24)",double,112702105
+S24,NS2,data_NS2,"(63, 20000, 24)",double,111965797
+S24,NS3,data_NS3,"(63, 10000, 48)",double,111360075

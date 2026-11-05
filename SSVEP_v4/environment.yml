@@ -1,0 +1,15 @@
+name: SSVEP
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy
+      - scipy
+      - pandas
+      - matplotlib
+      - scikit-learn
+      - openpyxl
+      - threadpoolctl
+      - mne

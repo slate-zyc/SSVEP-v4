@@ -1,0 +1,3 @@
+Frequency predictions: 27648
+Asynchronous predictions: 41472
+Accuracy independently recomputed; group separation checked.

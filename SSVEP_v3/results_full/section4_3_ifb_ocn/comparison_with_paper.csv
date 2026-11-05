@@ -1,0 +1,4 @@
+state,reproduced,method,paper,difference_percentage_points
+NS1,58.22482638888889,IFB-OCN-reconstructed,70.51,-12.285173611111112
+NS2,61.95746527777778,IFB-OCN-reconstructed,72.35,-10.392534722222216
+NS3,68.18576388888889,IFB-OCN-reconstructed,69.34,-1.1542361111111177

@@ -1,0 +1,3 @@
+metric,reproduced,paper,difference
+accuracy_4s_percent,93.75,79.47,14.280000000000001
+itr_1s_bits_min,37.206762358966685,33.3243,3.8824623589666842

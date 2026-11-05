@@ -1,0 +1,1658 @@
+[
+  {
+    "subject": "S21",
+    "state": "NS1",
+    "fold": 1,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.6306818181818182
+      },
+      {
+        "band_index": 0,
+        "band": [
+          0.5,
+          3
+        ],
+        "parameters": [
+          2,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5965909090909091
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5965909090909091
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS1",
+    "fold": 2,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.625
+      },
+      {
+        "band_index": 0,
+        "band": [
+          0.5,
+          3
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5738636363636364
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5738636363636364
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS1",
+    "fold": 3,
+    "selected": [
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5965909090909091
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5909090909090909
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5852272727272727
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS1",
+    "fold": 4,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5965909090909091
+      },
+      {
+        "band_index": 0,
+        "band": [
+          0.5,
+          3
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5852272727272727
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5795454545454546
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS1",
+    "fold": 5,
+    "selected": [
+      {
+        "band_index": 0,
+        "band": [
+          0.5,
+          3
+        ],
+        "parameters": [
+          2,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5795454545454546
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5738636363636364
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5681818181818182
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS1",
+    "fold": 6,
+    "selected": [
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.6022727272727273
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5795454545454546
+      },
+      {
+        "band_index": 0,
+        "band": [
+          0.5,
+          3
+        ],
+        "parameters": [
+          2,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5625
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS1",
+    "fold": 7,
+    "selected": [
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          2,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6022727272727273
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5965909090909091
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          5,
+          0.5
+        ],
+        "inner_accuracy": 0.5681818181818182
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS1",
+    "fold": 8,
+    "selected": [
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5909090909090909
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5681818181818182
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5625
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS1",
+    "fold": 9,
+    "selected": [
+      {
+        "band_index": 0,
+        "band": [
+          0.5,
+          3
+        ],
+        "parameters": [
+          2,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5909090909090909
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5909090909090909
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          2,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5852272727272727
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS1",
+    "fold": 10,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.625
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5795454545454546
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          2,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5738636363636364
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS1",
+    "fold": 11,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6136363636363636
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6022727272727273
+      },
+      {
+        "band_index": 0,
+        "band": [
+          0.5,
+          3
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5852272727272727
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS1",
+    "fold": 12,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6136363636363636
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          2,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.5965909090909091
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5795454545454546
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS2",
+    "fold": 1,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.6079545454545454
+      },
+      {
+        "band_index": 2,
+        "band": [
+          8,
+          13
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5965909090909091
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          5,
+          0.5
+        ],
+        "inner_accuracy": 0.5965909090909091
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS2",
+    "fold": 2,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.6193181818181818
+      },
+      {
+        "band_index": 0,
+        "band": [
+          0.5,
+          3
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5909090909090909
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          5,
+          0.5
+        ],
+        "inner_accuracy": 0.5738636363636364
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS2",
+    "fold": 3,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.6420454545454546
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5795454545454546
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5625
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS2",
+    "fold": 4,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.6477272727272727
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.5738636363636364
+      },
+      {
+        "band_index": 0,
+        "band": [
+          0.5,
+          3
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.5681818181818182
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS2",
+    "fold": 5,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.6193181818181818
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          5,
+          0.5
+        ],
+        "inner_accuracy": 0.5795454545454546
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5681818181818182
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS2",
+    "fold": 6,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.5909090909090909
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          5,
+          0.5
+        ],
+        "inner_accuracy": 0.5852272727272727
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5625
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS2",
+    "fold": 7,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.5909090909090909
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          5,
+          0.5
+        ],
+        "inner_accuracy": 0.5909090909090909
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5795454545454546
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS2",
+    "fold": 8,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.5965909090909091
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          5,
+          0.5
+        ],
+        "inner_accuracy": 0.5852272727272727
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5738636363636364
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS2",
+    "fold": 9,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.5965909090909091
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          5,
+          0.5
+        ],
+        "inner_accuracy": 0.5852272727272727
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5568181818181818
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS2",
+    "fold": 10,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.5909090909090909
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5852272727272727
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          5,
+          0.5
+        ],
+        "inner_accuracy": 0.5852272727272727
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS2",
+    "fold": 11,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.6079545454545454
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.5738636363636364
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5625
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS2",
+    "fold": 12,
+    "selected": [
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.5965909090909091
+      },
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          4,
+          5,
+          0.5
+        ],
+        "inner_accuracy": 0.5909090909090909
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.5852272727272727
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS3",
+    "fold": 1,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.7954545454545454
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.7386363636363636
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          5,
+          0.5
+        ],
+        "inner_accuracy": 0.6306818181818182
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS3",
+    "fold": 2,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.8011363636363636
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.7045454545454546
+      },
+      {
+        "band_index": 2,
+        "band": [
+          8,
+          13
+        ],
+        "parameters": [
+          4,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.625
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS3",
+    "fold": 3,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.8011363636363636
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.7045454545454546
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6420454545454546
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS3",
+    "fold": 4,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.7897727272727273
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.7102272727272727
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6363636363636364
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS3",
+    "fold": 5,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.7897727272727273
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          2,
+          5,
+          1.0
+        ],
+        "inner_accuracy": 0.6647727272727273
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          5,
+          0.5
+        ],
+        "inner_accuracy": 0.6306818181818182
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS3",
+    "fold": 6,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.8011363636363636
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6875
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6306818181818182
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS3",
+    "fold": 7,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.7897727272727273
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.7159090909090909
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6306818181818182
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS3",
+    "fold": 8,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.7840909090909091
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6988636363636364
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6534090909090909
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS3",
+    "fold": 9,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.7727272727272727
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6988636363636364
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6477272727272727
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS3",
+    "fold": 10,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.7727272727272727
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6875
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6704545454545454
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS3",
+    "fold": 11,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          3,
+          0.5
+        ],
+        "inner_accuracy": 0.7840909090909091
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6988636363636364
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6704545454545454
+      }
+    ]
+  },
+  {
+    "subject": "S21",
+    "state": "NS3",
+    "fold": 12,
+    "selected": [
+      {
+        "band_index": 4,
+        "band": [
+          30,
+          60
+        ],
+        "parameters": [
+          2,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.8011363636363636
+      },
+      {
+        "band_index": 3,
+        "band": [
+          13,
+          30
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6931818181818182
+      },
+      {
+        "band_index": 1,
+        "band": [
+          4,
+          7
+        ],
+        "parameters": [
+          4,
+          3,
+          1.0
+        ],
+        "inner_accuracy": 0.6477272727272727
+      }
+    ]
+  }
+]

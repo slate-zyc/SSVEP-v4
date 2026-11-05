@@ -1,0 +1,700 @@
+输出目录：E:\Codex\asyn-SSVEP\.agents\worktrees\SSVEP_DSH\SSVEP\results
+已检查 96 个 MAT 文件
+S01: 63 通道信号质量分析
+S02: 63 通道信号质量分析
+S03: 63 通道信号质量分析
+S04: 63 通道信号质量分析
+S05: 63 通道信号质量分析
+S06: 63 通道信号质量分析
+S07: 63 通道信号质量分析
+S08: 63 通道信号质量分析
+S09: 63 通道信号质量分析
+S10: 63 通道信号质量分析
+S11: 63 通道信号质量分析
+S12: 63 通道信号质量分析
+S13: 63 通道信号质量分析
+S14: 63 通道信号质量分析
+S15: 63 通道信号质量分析
+S16: 63 通道信号质量分析
+S17: 63 通道信号质量分析
+S18: 63 通道信号质量分析
+S19: 63 通道信号质量分析
+S20: 63 通道信号质量分析
+S21: 63 通道信号质量分析
+S22: 63 通道信号质量分析
+S23: 63 通道信号质量分析
+S24: 63 通道信号质量分析
+S01: 频率识别，窗长 1 s
+  FBCCA: 72.92%
+  TRCA: 63.54%
+  eTRCA: 66.67%
+S01: 频率识别，窗长 2 s
+  FBCCA: 69.79%
+  TRCA: 71.88%
+  eTRCA: 75.00%
+S01: 频率识别，窗长 3 s
+  FBCCA: 71.88%
+  TRCA: 71.88%
+  eTRCA: 76.04%
+S01: 频率识别，窗长 4 s
+  FBCCA: 67.71%
+  TRCA: 77.08%
+  eTRCA: 79.17%
+S02: 频率识别，窗长 1 s
+  FBCCA: 87.50%
+  TRCA: 64.58%
+  eTRCA: 76.04%
+S02: 频率识别，窗长 2 s
+  FBCCA: 97.92%
+  TRCA: 83.33%
+  eTRCA: 89.58%
+S02: 频率识别，窗长 3 s
+  FBCCA: 97.92%
+  TRCA: 89.58%
+  eTRCA: 93.75%
+S02: 频率识别，窗长 4 s
+  FBCCA: 100.00%
+  TRCA: 91.67%
+  eTRCA: 93.75%
+S03: 频率识别，窗长 1 s
+  FBCCA: 89.58%
+  TRCA: 73.96%
+  eTRCA: 86.46%
+S03: 频率识别，窗长 2 s
+  FBCCA: 100.00%
+  TRCA: 89.58%
+  eTRCA: 89.58%
+S03: 频率识别，窗长 3 s
+  FBCCA: 100.00%
+  TRCA: 91.67%
+  eTRCA: 90.62%
+S03: 频率识别，窗长 4 s
+  FBCCA: 98.96%
+  TRCA: 94.79%
+  eTRCA: 93.75%
+S04: 频率识别，窗长 1 s
+  FBCCA: 96.88%
+  TRCA: 60.42%
+  eTRCA: 57.29%
+S04: 频率识别，窗长 2 s
+  FBCCA: 100.00%
+  TRCA: 76.04%
+  eTRCA: 76.04%
+S04: 频率识别，窗长 3 s
+  FBCCA: 100.00%
+  TRCA: 77.08%
+  eTRCA: 76.04%
+S04: 频率识别，窗长 4 s
+  FBCCA: 100.00%
+  TRCA: 79.17%
+  eTRCA: 72.92%
+S05: 频率识别，窗长 1 s
+  FBCCA: 92.71%
+  TRCA: 56.25%
+  eTRCA: 82.29%
+S05: 频率识别，窗长 2 s
+  FBCCA: 98.96%
+  TRCA: 66.67%
+  eTRCA: 89.58%
+S05: 频率识别，窗长 3 s
+  FBCCA: 98.96%
+  TRCA: 72.92%
+  eTRCA: 89.58%
+S05: 频率识别，窗长 4 s
+  FBCCA: 98.96%
+  TRCA: 81.25%
+  eTRCA: 87.50%
+S06: 频率识别，窗长 1 s
+  FBCCA: 98.96%
+  TRCA: 93.75%
+  eTRCA: 91.67%
+S06: 频率识别，窗长 2 s
+  FBCCA: 100.00%
+  TRCA: 98.96%
+  eTRCA: 97.92%
+S06: 频率识别，窗长 3 s
+  FBCCA: 100.00%
+  TRCA: 97.92%
+  eTRCA: 96.88%
+S06: 频率识别，窗长 4 s
+  FBCCA: 100.00%
+  TRCA: 97.92%
+  eTRCA: 97.92%
+S07: 频率识别，窗长 1 s
+  FBCCA: 68.75%
+  TRCA: 67.71%
+  eTRCA: 77.08%
+S07: 频率识别，窗长 2 s
+  FBCCA: 95.83%
+  TRCA: 81.25%
+  eTRCA: 87.50%
+S07: 频率识别，窗长 3 s
+  FBCCA: 98.96%
+  TRCA: 85.42%
+  eTRCA: 90.62%
+S07: 频率识别，窗长 4 s
+  FBCCA: 100.00%
+  TRCA: 87.50%
+  eTRCA: 90.62%
+S08: 频率识别，窗长 1 s
+  FBCCA: 67.71%
+  TRCA: 55.21%
+  eTRCA: 67.71%
+S08: 频率识别，窗长 2 s
+  FBCCA: 92.71%
+  TRCA: 79.17%
+  eTRCA: 84.38%
+S08: 频率识别，窗长 3 s
+  FBCCA: 98.96%
+  TRCA: 85.42%
+  eTRCA: 91.67%
+S08: 频率识别，窗长 4 s
+  FBCCA: 98.96%
+  TRCA: 88.54%
+  eTRCA: 91.67%
+S09: 频率识别，窗长 1 s
+  FBCCA: 94.79%
+  TRCA: 93.75%
+  eTRCA: 94.79%
+S09: 频率识别，窗长 2 s
+  FBCCA: 100.00%
+  TRCA: 95.83%
+  eTRCA: 94.79%
+S09: 频率识别，窗长 3 s
+  FBCCA: 100.00%
+  TRCA: 94.79%
+  eTRCA: 97.92%
+S09: 频率识别，窗长 4 s
+  FBCCA: 100.00%
+  TRCA: 95.83%
+  eTRCA: 98.96%
+S10: 频率识别，窗长 1 s
+  FBCCA: 80.21%
+  TRCA: 83.33%
+  eTRCA: 82.29%
+S10: 频率识别，窗长 2 s
+  FBCCA: 93.75%
+  TRCA: 92.71%
+  eTRCA: 92.71%
+S10: 频率识别，窗长 3 s
+  FBCCA: 95.83%
+  TRCA: 89.58%
+  eTRCA: 94.79%
+S10: 频率识别，窗长 4 s
+  FBCCA: 96.88%
+  TRCA: 89.58%
+  eTRCA: 93.75%
+S11: 频率识别，窗长 1 s
+  FBCCA: 17.71%
+  TRCA: 34.38%
+  eTRCA: 39.58%
+S11: 频率识别，窗长 2 s
+  FBCCA: 10.42%
+  TRCA: 67.71%
+  eTRCA: 70.83%
+S11: 频率识别，窗长 3 s
+  FBCCA: 7.29%
+  TRCA: 79.17%
+  eTRCA: 84.38%
+S11: 频率识别，窗长 4 s
+  FBCCA: 5.21%
+  TRCA: 94.79%
+  eTRCA: 91.67%
+S12: 频率识别，窗长 1 s
+  FBCCA: 85.42%
+  TRCA: 71.88%
+  eTRCA: 76.04%
+S12: 频率识别，窗长 2 s
+  FBCCA: 96.88%
+  TRCA: 78.12%
+  eTRCA: 82.29%
+S12: 频率识别，窗长 3 s
+  FBCCA: 98.96%
+  TRCA: 80.21%
+  eTRCA: 81.25%
+S12: 频率识别，窗长 4 s
+  FBCCA: 98.96%
+  TRCA: 84.38%
+  eTRCA: 86.46%
+S13: 频率识别，窗长 1 s
+  FBCCA: 77.08%
+  TRCA: 61.46%
+  eTRCA: 67.71%
+S13: 频率识别，窗长 2 s
+  FBCCA: 94.79%
+  TRCA: 66.67%
+  eTRCA: 71.88%
+S13: 频率识别，窗长 3 s
+  FBCCA: 93.75%
+  TRCA: 72.92%
+  eTRCA: 71.88%
+S13: 频率识别，窗长 4 s
+  FBCCA: 97.92%
+  TRCA: 77.08%
+  eTRCA: 79.17%
+S14: 频率识别，窗长 1 s
+  FBCCA: 40.62%
+  TRCA: 45.83%
+  eTRCA: 48.96%
+S14: 频率识别，窗长 2 s
+  FBCCA: 79.17%
+  TRCA: 67.71%
+  eTRCA: 70.83%
+S14: 频率识别，窗长 3 s
+  FBCCA: 85.42%
+  TRCA: 77.08%
+  eTRCA: 71.88%
+S14: 频率识别，窗长 4 s
+  FBCCA: 89.58%
+  TRCA: 77.08%
+  eTRCA: 71.88%
+S15: 频率识别，窗长 1 s
+  FBCCA: 92.71%
+  TRCA: 91.67%
+  eTRCA: 93.75%
+S15: 频率识别，窗长 2 s
+  FBCCA: 100.00%
+  TRCA: 98.96%
+  eTRCA: 100.00%
+S15: 频率识别，窗长 3 s
+  FBCCA: 100.00%
+  TRCA: 98.96%
+  eTRCA: 98.96%
+S15: 频率识别，窗长 4 s
+  FBCCA: 100.00%
+  TRCA: 100.00%
+  eTRCA: 100.00%
+S16: 频率识别，窗长 1 s
+  FBCCA: 87.50%
+  TRCA: 82.29%
+  eTRCA: 86.46%
+S16: 频率识别，窗长 2 s
+  FBCCA: 97.92%
+  TRCA: 87.50%
+  eTRCA: 87.50%
+S16: 频率识别，窗长 3 s
+  FBCCA: 98.96%
+  TRCA: 91.67%
+  eTRCA: 90.62%
+S16: 频率识别，窗长 4 s
+  FBCCA: 98.96%
+  TRCA: 90.62%
+  eTRCA: 92.71%
+S17: 频率识别，窗长 1 s
+  FBCCA: 89.58%
+  TRCA: 69.79%
+  eTRCA: 81.25%
+S17: 频率识别，窗长 2 s
+  FBCCA: 100.00%
+  TRCA: 84.38%
+  eTRCA: 86.46%
+S17: 频率识别，窗长 3 s
+  FBCCA: 100.00%
+  TRCA: 89.58%
+  eTRCA: 89.58%
+S17: 频率识别，窗长 4 s
+  FBCCA: 100.00%
+  TRCA: 90.62%
+  eTRCA: 90.62%
+S18: 频率识别，窗长 1 s
+  FBCCA: 72.92%
+  TRCA: 73.96%
+  eTRCA: 81.25%
+S18: 频率识别，窗长 2 s
+  FBCCA: 89.58%
+  TRCA: 83.33%
+  eTRCA: 85.42%
+S18: 频率识别，窗长 3 s
+  FBCCA: 95.83%
+  TRCA: 85.42%
+  eTRCA: 87.50%
+S18: 频率识别，窗长 4 s
+  FBCCA: 96.88%
+  TRCA: 88.54%
+  eTRCA: 88.54%
+S19: 频率识别，窗长 1 s
+  FBCCA: 45.83%
+  TRCA: 57.29%
+  eTRCA: 63.54%
+S19: 频率识别，窗长 2 s
+  FBCCA: 79.17%
+  TRCA: 77.08%
+  eTRCA: 84.38%
+S19: 频率识别，窗长 3 s
+  FBCCA: 86.46%
+  TRCA: 86.46%
+  eTRCA: 93.75%
+S19: 频率识别，窗长 4 s
+  FBCCA: 90.62%
+  TRCA: 89.58%
+  eTRCA: 93.75%
+S20: 频率识别，窗长 1 s
+  FBCCA: 97.92%
+  TRCA: 89.58%
+  eTRCA: 92.71%
+S20: 频率识别，窗长 2 s
+  FBCCA: 97.92%
+  TRCA: 93.75%
+  eTRCA: 93.75%
+S20: 频率识别，窗长 3 s
+  FBCCA: 100.00%
+  TRCA: 91.67%
+  eTRCA: 93.75%
+S20: 频率识别，窗长 4 s
+  FBCCA: 100.00%
+  TRCA: 94.79%
+  eTRCA: 96.88%
+S21: 频率识别，窗长 1 s
+  FBCCA: 93.75%
+  TRCA: 95.83%
+  eTRCA: 95.83%
+S21: 频率识别，窗长 2 s
+  FBCCA: 95.83%
+  TRCA: 97.92%
+  eTRCA: 97.92%
+S21: 频率识别，窗长 3 s
+  FBCCA: 97.92%
+  TRCA: 98.96%
+  eTRCA: 97.92%
+S21: 频率识别，窗长 4 s
+  FBCCA: 100.00%
+  TRCA: 97.92%
+  eTRCA: 96.88%
+S22: 频率识别，窗长 1 s
+  FBCCA: 39.58%
+  TRCA: 43.75%
+  eTRCA: 47.92%
+S22: 频率识别，窗长 2 s
+  FBCCA: 75.00%
+  TRCA: 65.62%
+  eTRCA: 73.96%
+S22: 频率识别，窗长 3 s
+  FBCCA: 92.71%
+  TRCA: 79.17%
+  eTRCA: 78.12%
+S22: 频率识别，窗长 4 s
+  FBCCA: 95.83%
+  TRCA: 83.33%
+  eTRCA: 88.54%
+S23: 频率识别，窗长 1 s
+  FBCCA: 63.54%
+  TRCA: 80.21%
+  eTRCA: 84.38%
+S23: 频率识别，窗长 2 s
+  FBCCA: 71.88%
+  TRCA: 87.50%
+  eTRCA: 88.54%
+S23: 频率识别，窗长 3 s
+  FBCCA: 82.29%
+  TRCA: 88.54%
+  eTRCA: 89.58%
+S23: 频率识别，窗长 4 s
+  FBCCA: 79.17%
+  TRCA: 87.50%
+  eTRCA: 89.58%
+S24: 频率识别，窗长 1 s
+  FBCCA: 93.75%
+  TRCA: 90.62%
+  eTRCA: 91.67%
+S24: 频率识别，窗长 2 s
+  FBCCA: 98.96%
+  TRCA: 88.54%
+  eTRCA: 89.58%
+S24: 频率识别，窗长 3 s
+  FBCCA: 100.00%
+  TRCA: 87.50%
+  eTRCA: 89.58%
+S24: 频率识别，窗长 4 s
+  FBCCA: 100.00%
+  TRCA: 87.50%
+  eTRCA: 89.58%
+S01: 异步状态分类 CS vs NS1
+  FS-eTRCA: 72.40%
+  FS-eTRCA&FBCCA: 79.69%
+  IFB-OCN-reconstructed: 59.38%
+S01: 异步状态分类 CS vs NS2
+  FS-eTRCA: 70.83%
+  FS-eTRCA&FBCCA: 78.65%
+  IFB-OCN-reconstructed: 61.46%
+S01: 异步状态分类 CS vs NS3
+  FS-eTRCA: 70.83%
+  FS-eTRCA&FBCCA: 77.60%
+  IFB-OCN-reconstructed: 78.65%
+S02: 异步状态分类 CS vs NS1
+  FS-eTRCA: 69.27%
+  FS-eTRCA&FBCCA: 80.73%
+  IFB-OCN-reconstructed: 64.58%
+S02: 异步状态分类 CS vs NS2
+  FS-eTRCA: 62.50%
+  FS-eTRCA&FBCCA: 76.04%
+  IFB-OCN-reconstructed: 56.77%
+S02: 异步状态分类 CS vs NS3
+  FS-eTRCA: 65.62%
+  FS-eTRCA&FBCCA: 77.60%
+  IFB-OCN-reconstructed: 73.96%
+S03: 异步状态分类 CS vs NS1
+  FS-eTRCA: 82.29%
+  FS-eTRCA&FBCCA: 89.06%
+  IFB-OCN-reconstructed: 67.19%
+S03: 异步状态分类 CS vs NS2
+  FS-eTRCA: 73.96%
+  FS-eTRCA&FBCCA: 88.02%
+  IFB-OCN-reconstructed: 78.65%
+S03: 异步状态分类 CS vs NS3
+  FS-eTRCA: 76.56%
+  FS-eTRCA&FBCCA: 87.50%
+  IFB-OCN-reconstructed: 73.96%
+S04: 异步状态分类 CS vs NS1
+  FS-eTRCA: 68.23%
+  FS-eTRCA&FBCCA: 76.04%
+  IFB-OCN-reconstructed: 53.65%
+S04: 异步状态分类 CS vs NS2
+  FS-eTRCA: 64.58%
+  FS-eTRCA&FBCCA: 73.44%
+  IFB-OCN-reconstructed: 76.56%
+S04: 异步状态分类 CS vs NS3
+  FS-eTRCA: 65.10%
+  FS-eTRCA&FBCCA: 76.04%
+  IFB-OCN-reconstructed: 72.92%
+S05: 异步状态分类 CS vs NS1
+  FS-eTRCA: 83.33%
+  FS-eTRCA&FBCCA: 90.10%
+  IFB-OCN-reconstructed: 51.04%
+S05: 异步状态分类 CS vs NS2
+  FS-eTRCA: 79.17%
+  FS-eTRCA&FBCCA: 87.50%
+  IFB-OCN-reconstructed: 58.85%
+S05: 异步状态分类 CS vs NS3
+  FS-eTRCA: 82.81%
+  FS-eTRCA&FBCCA: 85.42%
+  IFB-OCN-reconstructed: 76.04%
+S06: 异步状态分类 CS vs NS1
+  FS-eTRCA: 91.15%
+  FS-eTRCA&FBCCA: 97.40%
+  IFB-OCN-reconstructed: 61.46%
+S06: 异步状态分类 CS vs NS2
+  FS-eTRCA: 86.46%
+  FS-eTRCA&FBCCA: 91.67%
+  IFB-OCN-reconstructed: 65.10%
+S06: 异步状态分类 CS vs NS3
+  FS-eTRCA: 89.58%
+  FS-eTRCA&FBCCA: 97.40%
+  IFB-OCN-reconstructed: 76.04%
+S07: 异步状态分类 CS vs NS1
+  FS-eTRCA: 67.19%
+  FS-eTRCA&FBCCA: 79.69%
+  IFB-OCN-reconstructed: 61.46%
+S07: 异步状态分类 CS vs NS2
+  FS-eTRCA: 68.75%
+  FS-eTRCA&FBCCA: 81.25%
+  IFB-OCN-reconstructed: 58.85%
+S07: 异步状态分类 CS vs NS3
+  FS-eTRCA: 68.75%
+  FS-eTRCA&FBCCA: 78.12%
+  IFB-OCN-reconstructed: 76.56%
+S08: 异步状态分类 CS vs NS1
+  FS-eTRCA: 67.19%
+  FS-eTRCA&FBCCA: 80.21%
+  IFB-OCN-reconstructed: 67.19%
+S08: 异步状态分类 CS vs NS2
+  FS-eTRCA: 61.98%
+  FS-eTRCA&FBCCA: 73.96%
+  IFB-OCN-reconstructed: 55.21%
+S08: 异步状态分类 CS vs NS3
+  FS-eTRCA: 67.19%
+  FS-eTRCA&FBCCA: 76.56%
+  IFB-OCN-reconstructed: 80.73%
+S09: 异步状态分类 CS vs NS1
+  FS-eTRCA: 81.77%
+  FS-eTRCA&FBCCA: 91.15%
+  IFB-OCN-reconstructed: 64.58%
+S09: 异步状态分类 CS vs NS2
+  FS-eTRCA: 85.94%
+  FS-eTRCA&FBCCA: 91.15%
+  IFB-OCN-reconstructed: 52.60%
+S09: 异步状态分类 CS vs NS3
+  FS-eTRCA: 86.46%
+  FS-eTRCA&FBCCA: 92.19%
+  IFB-OCN-reconstructed: 61.46%
+S10: 异步状态分类 CS vs NS1
+  FS-eTRCA: 78.12%
+  FS-eTRCA&FBCCA: 86.46%
+  IFB-OCN-reconstructed: 60.94%
+S10: 异步状态分类 CS vs NS2
+  FS-eTRCA: 76.56%
+  FS-eTRCA&FBCCA: 85.42%
+  IFB-OCN-reconstructed: 68.23%
+S10: 异步状态分类 CS vs NS3
+  FS-eTRCA: 76.04%
+  FS-eTRCA&FBCCA: 81.25%
+  IFB-OCN-reconstructed: 70.31%
+S11: 异步状态分类 CS vs NS1
+  FS-eTRCA: 52.60%
+  FS-eTRCA&FBCCA: 52.60%
+  IFB-OCN-reconstructed: 61.46%
+S11: 异步状态分类 CS vs NS2
+  FS-eTRCA: 45.83%
+  FS-eTRCA&FBCCA: 50.00%
+  IFB-OCN-reconstructed: 61.46%
+S11: 异步状态分类 CS vs NS3
+  FS-eTRCA: 47.40%
+  FS-eTRCA&FBCCA: 49.48%
+  IFB-OCN-reconstructed: 62.50%
+S12: 异步状态分类 CS vs NS1
+  FS-eTRCA: 75.52%
+  FS-eTRCA&FBCCA: 88.02%
+  IFB-OCN-reconstructed: 69.27%
+S12: 异步状态分类 CS vs NS2
+  FS-eTRCA: 73.96%
+  FS-eTRCA&FBCCA: 84.38%
+  IFB-OCN-reconstructed: 65.10%
+S12: 异步状态分类 CS vs NS3
+  FS-eTRCA: 75.52%
+  FS-eTRCA&FBCCA: 83.33%
+  IFB-OCN-reconstructed: 58.33%
+S13: 异步状态分类 CS vs NS1
+  FS-eTRCA: 62.50%
+  FS-eTRCA&FBCCA: 75.52%
+  IFB-OCN-reconstructed: 69.79%
+S13: 异步状态分类 CS vs NS2
+  FS-eTRCA: 62.50%
+  FS-eTRCA&FBCCA: 78.65%
+  IFB-OCN-reconstructed: 79.69%
+S13: 异步状态分类 CS vs NS3
+  FS-eTRCA: 63.54%
+  FS-eTRCA&FBCCA: 73.96%
+  IFB-OCN-reconstructed: 75.52%
+S14: 异步状态分类 CS vs NS1
+  FS-eTRCA: 50.52%
+  FS-eTRCA&FBCCA: 60.94%
+  IFB-OCN-reconstructed: 55.73%
+S14: 异步状态分类 CS vs NS2
+  FS-eTRCA: 51.56%
+  FS-eTRCA&FBCCA: 60.42%
+  IFB-OCN-reconstructed: 58.33%
+S14: 异步状态分类 CS vs NS3
+  FS-eTRCA: 50.00%
+  FS-eTRCA&FBCCA: 57.81%
+  IFB-OCN-reconstructed: 65.10%
+S15: 异步状态分类 CS vs NS1
+  FS-eTRCA: 91.67%
+  FS-eTRCA&FBCCA: 95.31%
+  IFB-OCN-reconstructed: 51.04%
+S15: 异步状态分类 CS vs NS2
+  FS-eTRCA: 87.50%
+  FS-eTRCA&FBCCA: 93.75%
+  IFB-OCN-reconstructed: 70.31%
+S15: 异步状态分类 CS vs NS3
+  FS-eTRCA: 82.81%
+  FS-eTRCA&FBCCA: 89.58%
+  IFB-OCN-reconstructed: 65.10%
+S16: 异步状态分类 CS vs NS1
+  FS-eTRCA: 83.33%
+  FS-eTRCA&FBCCA: 86.98%
+  IFB-OCN-reconstructed: 51.56%
+S16: 异步状态分类 CS vs NS2
+  FS-eTRCA: 85.42%
+  FS-eTRCA&FBCCA: 89.06%
+  IFB-OCN-reconstructed: 55.21%
+S16: 异步状态分类 CS vs NS3
+  FS-eTRCA: 81.77%
+  FS-eTRCA&FBCCA: 84.38%
+  IFB-OCN-reconstructed: 61.46%
+S17: 异步状态分类 CS vs NS1
+  FS-eTRCA: 75.00%
+  FS-eTRCA&FBCCA: 86.98%
+  IFB-OCN-reconstructed: 51.04%
+S17: 异步状态分类 CS vs NS2
+  FS-eTRCA: 73.96%
+  FS-eTRCA&FBCCA: 87.50%
+  IFB-OCN-reconstructed: 50.52%
+S17: 异步状态分类 CS vs NS3
+  FS-eTRCA: 75.52%
+  FS-eTRCA&FBCCA: 89.58%
+  IFB-OCN-reconstructed: 68.75%
+S18: 异步状态分类 CS vs NS1
+  FS-eTRCA: 78.12%
+  FS-eTRCA&FBCCA: 85.42%
+  IFB-OCN-reconstructed: 63.54%
+S18: 异步状态分类 CS vs NS2
+  FS-eTRCA: 77.08%
+  FS-eTRCA&FBCCA: 83.85%
+  IFB-OCN-reconstructed: 59.38%
+S18: 异步状态分类 CS vs NS3
+  FS-eTRCA: 82.81%
+  FS-eTRCA&FBCCA: 85.94%
+  IFB-OCN-reconstructed: 68.75%
+S19: 异步状态分类 CS vs NS1
+  FS-eTRCA: 55.73%
+  FS-eTRCA&FBCCA: 60.42%
+  IFB-OCN-reconstructed: 57.29%
+S19: 异步状态分类 CS vs NS2
+  FS-eTRCA: 57.81%
+  FS-eTRCA&FBCCA: 56.77%
+  IFB-OCN-reconstructed: 60.94%
+S19: 异步状态分类 CS vs NS3
+  FS-eTRCA: 52.60%
+  FS-eTRCA&FBCCA: 55.73%
+  IFB-OCN-reconstructed: 54.17%
+S20: 异步状态分类 CS vs NS1
+  FS-eTRCA: 87.50%
+  FS-eTRCA&FBCCA: 94.79%
+  IFB-OCN-reconstructed: 48.96%
+S20: 异步状态分类 CS vs NS2
+  FS-eTRCA: 86.98%
+  FS-eTRCA&FBCCA: 93.23%
+  IFB-OCN-reconstructed: 62.50%
+S20: 异步状态分类 CS vs NS3
+  FS-eTRCA: 83.33%
+  FS-eTRCA&FBCCA: 94.27%
+  IFB-OCN-reconstructed: 52.60%
+S21: 异步状态分类 CS vs NS1
+  FS-eTRCA: 96.35%
+  FS-eTRCA&FBCCA: 96.35%
+  IFB-OCN-reconstructed: 57.81%
+S21: 异步状态分类 CS vs NS2
+  FS-eTRCA: 92.71%
+  FS-eTRCA&FBCCA: 95.83%
+  IFB-OCN-reconstructed: 58.33%
+S21: 异步状态分类 CS vs NS3
+  FS-eTRCA: 89.58%
+  FS-eTRCA&FBCCA: 93.75%
+  IFB-OCN-reconstructed: 76.56%
+S22: 异步状态分类 CS vs NS1
+  FS-eTRCA: 44.27%
+  FS-eTRCA&FBCCA: 50.00%
+  IFB-OCN-reconstructed: 61.46%
+S22: 异步状态分类 CS vs NS2
+  FS-eTRCA: 45.31%
+  FS-eTRCA&FBCCA: 46.88%
+  IFB-OCN-reconstructed: 59.38%
+S22: 异步状态分类 CS vs NS3
+  FS-eTRCA: 50.00%
+  FS-eTRCA&FBCCA: 52.60%
+  IFB-OCN-reconstructed: 71.35%
+S23: 异步状态分类 CS vs NS1
+  FS-eTRCA: 80.21%
+  FS-eTRCA&FBCCA: 85.42%
+  IFB-OCN-reconstructed: 58.85%
+S23: 异步状态分类 CS vs NS2
+  FS-eTRCA: 79.17%
+  FS-eTRCA&FBCCA: 87.50%
+  IFB-OCN-reconstructed: 53.65%
+S23: 异步状态分类 CS vs NS3
+  FS-eTRCA: 75.52%
+  FS-eTRCA&FBCCA: 83.33%
+  IFB-OCN-reconstructed: 66.67%
+S24: 异步状态分类 CS vs NS1
+  FS-eTRCA: 80.21%
+  FS-eTRCA&FBCCA: 95.31%
+  IFB-OCN-reconstructed: 52.08%
+S24: 异步状态分类 CS vs NS2
+  FS-eTRCA: 80.73%
+  FS-eTRCA&FBCCA: 93.23%
+  IFB-OCN-reconstructed: 53.65%
+S24: 异步状态分类 CS vs NS3
+  FS-eTRCA: 80.21%
+  FS-eTRCA&FBCCA: 92.71%
+  IFB-OCN-reconstructed: 58.85%
+报告已写入 E:\Codex\asyn-SSVEP\.agents\worktrees\SSVEP_DSH\SSVEP\results
+完成。输出：E:\Codex\asyn-SSVEP\.agents\worktrees\SSVEP_DSH\SSVEP\results

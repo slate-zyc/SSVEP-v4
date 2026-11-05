@@ -1,0 +1,9 @@
+# Keep scientific/document artifacts byte-for-byte intact on Windows.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.xlsx binary
+*.mat binary
+*.npz binary
+*.npy binary

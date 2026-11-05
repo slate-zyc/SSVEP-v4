@@ -1,0 +1,12 @@
+{
+  "subjects": 24,
+  "frequency_predictions": 27648,
+  "asynchronous_predictions": 41472,
+  "frequency_metrics": 288,
+  "asynchronous_metrics": 216,
+  "documented_python_files": 10,
+  "raw_trial_grouping": "passed",
+  "independent_metric_recalculation": "passed",
+  "exact_paper_reproduction": false,
+  "limitation": "IFB-OCN reconstruction and explicitly documented protocol assumptions"
+}

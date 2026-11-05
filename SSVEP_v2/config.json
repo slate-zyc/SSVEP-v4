@@ -1,0 +1,66 @@
+{
+  "subjects": ["S01", "S02", "S03", "S04", "S05", "S06", "S07", "S08", "S09", "S10", "S11", "S12",
+               "S13", "S14", "S15", "S16", "S17", "S18", "S19", "S20", "S21", "S22", "S23", "S24"],
+
+  "paths": {
+    "data": "../EEG_data",
+    "cache": "cache",
+    "output": "results"
+  },
+
+  "eeg": {
+    "original_fs": 5000,
+    "fs": 250,
+    "notch_hz": 50,
+    "notch_q": 30
+  },
+
+  "paradigm": {
+    "frequencies": [8, 9, 10.5, 11, 12, 13, 14, 15],
+    "posterior_channels": ["Pz", "PO7", "PO3", "POz", "PO4", "PO8", "O1", "Oz", "O2"],
+    "frontal_channel": "Fp1",
+    "delay_seconds": 0.14,
+    "cue_seconds": 1.5,
+    "harmonics": 3
+  },
+
+  "filter_bank": {
+    "passbands": [[6, 80], [14, 80], [22, 80], [30, 80]],
+    "stopbands": [[4, 90], [10, 90], [16, 90], [24, 90]],
+    "order_ripple_db": 3,
+    "ripple_db": 0.5,
+    "stop_attenuation_db": 40,
+    "weight_exponent": -1.25,
+    "weight_offset": 0.25,
+    "score_power": 1
+  },
+
+  "trca": {
+    "ridge_relative": 1e-8
+  },
+
+  "frequency": {
+    "windows_seconds": [1, 2, 3, 4],
+    "folds": 12
+  },
+
+  "asynchronous": {
+    "window_seconds": 1,
+    "folds": 12,
+    "fs_score_power": 2,
+    "lda_shrinkage": "auto"
+  },
+
+  "ocn": {
+    "bands": [[0.5, 3], [4, 7], [8, 13], [13, 30], [30, 60]],
+    "filter_order": 4,
+    "delays": [2, 4],
+    "dimensions": [3, 5],
+    "radii": [0.5, 1.0],
+    "top_bands": 3,
+    "inner_folds": 3,
+    "svm_c": 1.0
+  },
+
+  "random_seed": 20261104
+}

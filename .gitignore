@@ -1,0 +1,13 @@
+# 原始数据从官方来源获取；仅提交目录说明。
+/EEG_data/*
+!/EEG_data/README.md
+
+# 本地缓存、编辑器设置和工作目录。
+.agents/
+.idea/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+cache/
+.DS_Store
+Thumbs.db
